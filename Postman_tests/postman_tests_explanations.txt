@@ -1,0 +1,12 @@
+Within this folder, you will find three collections of API requests for a real TestRail product:
+
+Project Management Collection:
+This collection includes requests for creating, editing, and deleting projects. It not only allows you to send requests but also provides a clear understanding of the impact on the user interface.
+
+Positive Tests Collection:
+This collection contains requests aimed at verifying the correct behavior of the system in various scenarios. Positive tests provide insights into how API interactions should behave under normal usage conditions.
+
+Negative Tests Collection:
+This collection comprises requests designed to test the handling of incorrect scenarios. Negative tests explore how the system processes errors and improper requests, crucial for ensuring security and reliability.
+
+These API request collections not only facilitate interaction with the API but also deepen your understanding of the impact on the user interface during various operations.
