@@ -49,6 +49,77 @@
     },
     "Expected result": "Dropdown menu items should be clearly visible and styled correctly",
     "Actual result": "Menu items appear misaligned or have styling inconsistencies"
+  },{
+    "Bug_id": "5",
+    "Priority": "Medium",
+    "Summary": "Image carousel not functioning",
+    "Steps to reproduce": {
+      "1": "Visit any product page with multiple images",
+      "2": "Attempt to navigate through product images using the carousel",
+      "3": "Observe the behavior"
+    },
+    "Expected result": "Users should be able to smoothly navigate through product images",
+    "Actual result": "Carousel does not respond or images do not change"
+  },
+  {
+    "Bug_id": "6",
+    "Priority": "High",
+    "Summary": "Add to Wishlist feature not working",
+    "Steps to reproduce": {
+      "1": "Select any product",
+      "2": "Click on 'Add to Wishlist' button",
+      "3": "Navigate to the Wishlist section"
+    },
+    "Expected result": "Selected product should be added to the Wishlist",
+    "Actual result": "Product is not added to the Wishlist or Wishlist section is empty"
+  },
+  {
+    "Bug_id": "7",
+    "Priority": "Low",
+    "Summary": "Broken links in the footer",
+    "Steps to reproduce": {
+      "1": "Scroll to the bottom of any page",
+      "2": "Click on various links in the footer",
+      "3": "Observe the redirection"
+    },
+    "Expected result": "Footer links should redirect to the respective pages",
+    "Actual result": "Links lead to 404 pages or incorrect destinations"
+  },
+  {
+    "Bug_id": "8",
+    "Priority": "Medium",
+    "Summary": "Incomplete user profile data",
+    "Steps to reproduce": {
+      "1": "Access the user profile section",
+      "2": "Update profile information",
+      "3": "Save changes and view the updated profile"
+    },
+    "Expected result": "User profile should display complete and updated information",
+    "Actual result": "Some fields in the user profile remain incomplete or unchanged"
+  },
+   {
+    "Bug_id": "9",
+    "Priority": "High",
+    "Summary": "Checkout page freezing during payment",
+    "Steps to reproduce": {
+      "1": "Add items to the Cart",
+      "2": "Proceed to the Checkout page",
+      "3": "Attempt to enter payment details"
+    },
+    "Expected result": "Users should be able to smoothly proceed through the checkout process",
+    "Actual result": "Checkout page freezes or becomes unresponsive during payment"
+  },
+  {
+    "Bug_id": "10",
+    "Priority": "Low",
+    "Summary": "Incorrect order confirmation message",
+    "Steps to reproduce": {
+      "1": "Place an order on the website",
+      "2": "Check the order confirmation message",
+      "3": "Review the details"
+    },
+    "Expected result": "Order confirmation message should accurately reflect the order details",
+    "Actual result": "Order confirmation message contains incorrect or incomplete information"
   },
 ]
 
