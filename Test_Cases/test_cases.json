@@ -1,13 +1,44 @@
-{
-  "TestCase_id":"1",
-  "Title":"Total price should reflect the product quantity",
-  "Steps":
+[
   {
-    "1":"Go to any Category",
-    "2":"Add any item to the Cart",
-    "3":"Go to the Cart",
-    "4":"Change quantity of the product",
-    "5":"Go to the Payment page"
+    "TestCase_id": "1",
+    "Title": "Total price should reflect the product quantity",
+    "Steps": {
+      "1": "Go to any Category",
+      "2": "Add any item to the Cart",
+      "3": "Go to the Cart",
+      "4": "Change the quantity of the product",
+      "5": "Go to the Payment page"
+    },
+    "Expected result": "Total price should reflect the quantity of the product"
   },
-  "Expected result":"Total price should reflect to the quantity of the product"
-}
+  {
+    "TestCase_id": "2",
+    "Title": "Login functionality verification",
+    "Steps": {
+      "1": "Navigate to the website's homepage",
+      "2": "Attempt to log in with valid credentials",
+      "3": "Observe the behavior"
+    },
+    "Expected result": "User should be successfully logged in"
+  },
+  {
+    "TestCase_id": "3",
+    "Title": "Search results accuracy",
+    "Steps": {
+      "1": "Enter a search query in the search bar",
+      "2": "Press the Enter key or click the Search button",
+      "3": "Examine the displayed search results"
+    },
+    "Expected result": "Search results should be relevant to the query"
+  },
+  {
+    "TestCase_id": "4",
+    "Title": "Dropdown menu functionality",
+    "Steps": {
+      "1": "Visit the website's settings or profile section",
+      "2": "Locate any dropdown menu",
+      "3": "Hover over the menu items"
+    },
+    "Expected result": "Dropdown menu items should be visible and responsive"
+  }
+]
