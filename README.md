@@ -1,6 +1,5 @@
-# Danila Albutov - QA Engineer
 
-Greetings! I'm Danila Albutov, a QA Engineer. Welcome to this repository showcasing the culmination of my expertise in test documentation, Postman, and SQL.
+Greetings! Welcome to this repository showcasing the culmination of my expertise in test documentation, Postman, and SQL.
 
 ## Testing:
 
